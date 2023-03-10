@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aquamarine;
+    margin: 10px;
+    font-family: cursive;
+}
+
+.borda-card {
+    border: 3px solid burlywood;
+}
+
+.perfil {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 5px;
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+
+span {
+    color: chocolate
+}
